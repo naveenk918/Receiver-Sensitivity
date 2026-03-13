@@ -57,7 +57,8 @@ Steps:
 1. Adjust output power to **0 dBm**.  
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
-4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
+4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.
+![image alt](https://github.com/naveenk918/Receiver-Sensitivity/blob/23ff6d033aea35dacee57b1ff8f3d71e68249353/WhatsApp%20Image%202026-03-13%20at%204.25.18%20PM.jpeg)
 
 ---
 
